@@ -1,6 +1,7 @@
 ![logo](https://file.cdn.sunmi.com/logo.png?x-oss-process=image/resize,h_200)
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/sunmi-OS/gocore)](https://goreportcard.com/report/github.com/sunmi-OS/gocore)
+[![GoDoc](https://godoc.org/github.com/sunmi-OS/gocore/v2?status.svg)](https://pkg.go.dev/github.com/sunmi-OS/gocore/v2)
 
 介绍
 ---
